@@ -1,2 +1,2 @@
 # Breast-cancer-predictor
-Personal project developed to learn machine learning and python
+Using the scikit-learn library, the program will take around 550 examples of breast cancer patiens of the Missuri Hospital
