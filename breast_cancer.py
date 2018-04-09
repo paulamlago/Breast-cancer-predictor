@@ -39,7 +39,6 @@ for i in range(len(bc.feature_names)):
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(bc.data, bc.target)
 
-#print(test_target)
 result = clf.predict([pacient_data])
 print("Based on other pacients, the system has predicted the followign: ")
 if(result is 0):
